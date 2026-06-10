@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about ** Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
