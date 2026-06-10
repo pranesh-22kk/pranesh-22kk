@@ -1,26 +1,230 @@
-<h1 align="center">Hi 👋, I'm Pranesh</h1>
-<h3 align="center">A passionate learner, dedicated to crafting web applications that prioritize user experience</h3>
+<h1 align="center">Hi 👋, I'm Pranesh K</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranesh-22kk&label=Profile%20views&color=0e75b6&style=flat" alt="pranesh-22kk" /> </p>
+<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast | AWS Cloud Practitioner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranesh-22kk" alt="pranesh-22kk" /></a> </p>
-
-- 🔭 I’m currently working on **Todo app**
-
-- 🌱 I’m currently learning **Gen AI**
-
-- 💬 Ask me about ** Web Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/pranesh__22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pranesh__22/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Developer;AWS+Cloud+Practitioner;Reinforcement+Learning+Enthusiast;Problem+Solver" />
 </p>
 
-<h3 align="left">Languages and  Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranesh-22kk&show_icons=true&locale=en&layout=compact" alt="pranesh-22kk" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranesh-22kk&show_icons=true&locale=en" alt="pranesh-22kk" /></p>
+🎓 B.Tech Information Technology Graduate
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-22kk&" alt="pranesh-22kk" /></p>
+💻 Passionate about Full-Stack Web Development, Cloud Computing, and Scalable Applications
+
+🚀 Built multiple MERN Stack projects including Employee Management Systems, E-Commerce Platforms, and Fitness Tracking Applications
+
+☁️ AWS Certified Cloud Practitioner
+
+🧠 Interested in Reinforcement Learning, Microservices, and Distributed Systems
+
+📍 Bangalore, India
+
+---
+
+## 🚀 Current Focus
+
+- Building Full-Stack MERN Applications
+- Exploring Cloud-Native Development
+- Learning Advanced System Design
+- Strengthening DSA & Problem Solving
+- Working with AWS Services and Deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Full-Stack Web Development Intern
+**Prodigy Infotech**
+
+- Developed responsive web applications using React.js and JavaScript.
+- Collaborated on frontend integration and debugging.
+- Improved UI responsiveness across multiple device types.
+
+### Web Development Intern
+**InternPe**
+
+- Built dynamic frontend modules using JavaScript and CSS.
+- Worked on form validation, event handling, and user interactions.
+- Optimized UI components and improved user experience.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Employee Management System
+
+A Full-Stack MERN Application
+
+✨ Features
+
+- JWT Authentication
+- Role-Based Access Control
+- Employee Record Management
+- CRUD Operations
+- REST API Integration
+
+---
+
+### 🛒 Online Store Platform
+
+Modern E-Commerce Application
+
+✨ Features
+
+- Product Listings
+- Inventory Management
+- Order Tracking
+- Responsive User Interface
+- Customer Purchase Workflow
+
+---
+
+### 💪 Fitness Tracker
+
+MERN Stack Fitness Application
+
+✨ Features
+
+- User Authentication
+- Workout Tracking
+- Progress Dashboard
+- Activity Analytics
+
+---
+
+### ☁️ Microservice Deployment Optimization
+
+Reinforcement Learning Based Optimization System
+
+✨ Features
+
+- Automated Deployment Decisions
+- Cloud & Edge Simulation
+- Workload Scheduling
+- Resource Optimization
+- Reinforcement Learning Environment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranesh-22kk&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-22kk&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranesh-22kk&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🥇 1st Prize in IoT Competition for Automation-Based Prototype
+
+🥇 1st Prize for AI Cyber Defense System at National Technical Event
+
+🎤 Presented Technical Seminar on Cloud Development Practices at PSG College of Technology
+
+---
+
+## 📜 Certifications
+
+☁️ AWS Certified Cloud Practitioner (2025–2028)
+
+---
+
+## 🎯 Areas of Interest
+
+- Full-Stack Development
+- Cloud Computing
+- AWS Services
+- Microservices Architecture
+- Reinforcement Learning
+- System Design
+- Backend Engineering
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:kpranesh2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pranesh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/pranesh-22kk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Pranesh__22">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+```javascript
+while(!goalAchieved){
+    learn();
+    build();
+    optimize();
+    deploy();
+}
+```
+
+### ⭐ Motto
+
+> "Building scalable solutions through code, cloud technologies, and continuous innovation."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pranesh-22kk&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
