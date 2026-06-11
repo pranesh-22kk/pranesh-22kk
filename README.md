@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack Enthusiast | AWS Cloud Practitioner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Developer;AWS+Cloud+Practitioner;Reinforcement+Learning+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;MERN+Stack+Developer;AWS+Cloud+Practitioner;Reinforcement+Learning+Enthusiast;Problem+Solver" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### Web Development Intern
 **InternPe**
 
-- Built dynamic frontend modules using JavaScript and CSS.
+- Built a dynamic frontend modules using JavaScript and CSS.
 - Worked on form validation, event handling, and user interactions.
 - Optimized UI components and improved user experience.
 
