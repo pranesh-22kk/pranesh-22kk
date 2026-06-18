@@ -30,11 +30,11 @@
 - Exploring Cloud-Native Development
 - Learning Advanced System Design
 - Strengthening DSA & Problem Solving
-- Working with AWS Services and Deployment
+- Working with AWS Services and deployment
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 ### Languages
 
